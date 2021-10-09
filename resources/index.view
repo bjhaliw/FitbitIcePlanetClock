@@ -1,0 +1,12 @@
+<svg class="background">
+  <image href="planet.png" />
+  <text id="clockLabel" />
+  <text id="dateLabel"/>
+  <text id="heartRateLabel" />
+  <text id="stepsLabel" />
+    <image height="25" width="25" href="heart.png" x="40" y="115"/>
+  <image height="25" width="25" href="steps.png" x="240" y="115"/>
+
+
+  
+</svg>
